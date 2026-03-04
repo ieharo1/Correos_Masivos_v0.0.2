@@ -1,4 +1,4 @@
-# 📧 Sistema de Correos Masivos PRO v0.0.2
+# 📧 Sistema de Correos Masivos PRO V0.0.2
 
 Sistema avanzado de envío de correos masivos con HTML responsivo, tracking de aperturas y métricas detalladas. Desarrollado por **Isaac Esteban Haro Torres**.
 
