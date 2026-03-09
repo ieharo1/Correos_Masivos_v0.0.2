@@ -168,13 +168,6 @@ Correos_Masivos_v0.0.2/
 
 ---
 
-## 🤝 Contribuciones
-
-¿Mejoraste el sistema de tracking? ¿Agregaste nuevos reportes?
-¡Abre un Pull Request!
-
----
-
 ## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
 **Ingeniero en Sistemas · Full Stack · Automatización · Data**
